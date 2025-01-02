@@ -27,7 +27,7 @@ A simple Python application that calculates the Body Mass Index (BMI) based on a
 3. Enter your height and weight when prompted.
 
 ### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/76a9beebdaa0cd495c499adaaf7255115d804303/BMI%20Calculator)
-
+[![Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Chatbot)
 ---
 
 ## Project 2: Realtime Voice Chatbot
@@ -42,7 +42,7 @@ A real-time voice interaction-based chatbot that responds to spoken queries. Usi
 4. Speak to interact with the bot.
 
 ### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Chatbot)
-
+[![Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Chatbot)
 ---
 
 ## Project 3: Emoji Pong Game
