@@ -6,7 +6,7 @@ Welcome to my collection of random Python projects! This repository contains sev
 
 ## Table of Contents
 
-- [Project 1: BMI Calculator](#project-1-project-name)
+- [Project 1: BMI Calculator](#project-1-BMI Calculator)
 - [Project 2: Realtime Voice Chatbot](#project-2-project-name)
 - [Project 3: Emoji Pong Game](#project-3-project-name)
 - [Project 4: Random Password Generator](#project-4-project-name)
