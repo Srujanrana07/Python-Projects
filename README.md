@@ -117,8 +117,10 @@ A Python application that fetches real-time weather data from a public API and d
 
 ## Contribution
 <a href="https://github.com/Srujanrana07">
-  <img src="https://avatars.githubusercontent.com/u/125748305?v=4" alt="Srujan Rana" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc;">
+  <img src="https://avatars.githubusercontent.com/u/125748305?v=4" alt="Srujan Rana" 
+       style="display: block; margin: 0 auto; width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc;">
 </a>
+<p style="text-align: center; font-weight: bold;">Srujan Rana</p>
 
 <a href="https://github.com/Srujanrana07" style="text-decoration: none; text-align: center; display: inline-block;">
   <img src="https://avatars.githubusercontent.com/u/125748305?v=4" alt="Srujan Rana" 
