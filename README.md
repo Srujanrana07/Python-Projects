@@ -119,7 +119,7 @@ A Python application that fetches real-time weather data from a public API and d
 <a href="https://github.com/Srujanrana07" style="text-decoration: none; display: inline-block; text-align: center;">
   <img src="https://avatars.githubusercontent.com/u/125748305?v=4" alt="Srujan Rana" 
        style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc;">
-  <p style="margin: 5px 0 0; color: #333; font-size: 14px; font-weight: bold;">Srujan Rana</p>
+<!--   <p style="margin: 5px 0 0; color: #333; font-size: 14px; font-weight: bold;">Srujan Rana</p> -->
 </a>
 
 [![Srujan Rana](https://img.shields.io/badge/Contributor%20Srujan%20Rana-Srujanrana07-blue?style=for-the-badge&logo=github)](https://github.com/Srujanrana07)
