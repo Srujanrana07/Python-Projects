@@ -118,10 +118,11 @@ A Python application that fetches real-time weather data from a public API and d
 ## Contribution
 <a href="https://github.com/Srujanrana07">
   <img src="https://avatars.githubusercontent.com/u/125748305?v=4" alt="Srujan Rana" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ccc;">
-</a>  
-[![Srujan Rana](https://img.shields.io/badge/Contributor%20Srujan%20Rana-Srujanrana07-blue?style=for-the-badge&logo=github)](https://github.com/Srujanrana07)
+</a>
+
 
 Feel free to fork this repository and submit pull requests if you wish to contribute to any of these projects. Please follow the respective project-specific guidelines where applicable.
+[![Srujan Rana](https://img.shields.io/badge/Contributor%20Srujan%20Rana-Srujanrana07-blue?style=for-the-badge&logo=github)](https://github.com/Srujanrana07)
 
 ---
 
