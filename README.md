@@ -26,8 +26,7 @@ A simple Python application that calculates the Body Mass Index (BMI) based on a
 2. Run the script `bmi_calculator.py`.
 3. Enter your height and weight when prompted.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/76a9beebdaa0cd495c499adaaf7255115d804303/BMI%20Calculator)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/76a9beebdaa0cd495c499adaaf7255115d804303/BMI%20Calculator)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/76a9beebdaa0cd495c499adaaf7255115d804303/BMI%20Calculator)
 
 ---
 
@@ -42,8 +41,7 @@ A real-time voice interaction-based chatbot that responds to spoken queries. Usi
 3. Run the script `chatbot.py`.
 4. Speak to interact with the bot.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Chatbot)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Chatbot)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Chatbot)
 
 ---
 
@@ -57,8 +55,7 @@ A fun implementation of the classic Pong game, where players control paddles to 
 2. Install the required dependencies (`pygame`).
 3. Run `emoji_pong.py` to play the game.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Emoji%20Pong)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Emoji%20Pong)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Emoji%20Pong)
 
 ---
 
@@ -72,8 +69,7 @@ A Python tool that generates secure and random passwords with customizable lengt
 2. Run the script `password_generator.py`.
 3. Customize the password length and complexity as needed.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Random%20Password)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Random%20Password)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Random%20Password)
 
 ---
 
@@ -87,8 +83,7 @@ A simple Python-based to-do list application where users can add, delete, and ma
 2. Run `todo_list.py`.
 3. Follow the on-screen instructions to manage tasks.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/ToList)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/ToList)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/ToList)
 
 ---
 
@@ -102,8 +97,7 @@ A chatbot implemented using Python's socket programming for real-time communicat
 2. Run the server script `server.py`.
 3. Run the client script `client.py` to interact with the chatbot.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Voice%20Assistant)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Voice%20Assistant)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Voice%20Assistant)
 
 ---
 
@@ -117,12 +111,14 @@ A Python application that fetches real-time weather data from a public API and d
 2. Install dependencies from `requirements.txt`.
 3. Run `weather_app.py` and enter the city name for weather information.
 
-### [Navigate to the project folder](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Weather%20App)
-[![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Weather%20App)
+### [![Navigate to Project Folder](https://img.shields.io/badge/Navigate%20to%20Project%20Folder-blue?style=for-the-badge)](https://github.com/Srujanrana07/Python-Projects/tree/9a032f3a6667dc94d16c2e7f1861834b6d6f5235/Weather%20App)
 
 ---
 
 ## Contribution
+
+[![Contributor Name](https://avatars.githubusercontent.com/u/USER_ID?v=4)](https://github.com/Srujanrana07)  
+[![Contributor Name](https://img.shields.io/badge/Contributor%20Name-USERNAME-blue?style=for-the-badge&logo=github)](https://github.com/Srujanrana07)
 
 Feel free to fork this repository and submit pull requests if you wish to contribute to any of these projects. Please follow the respective project-specific guidelines where applicable.
 
