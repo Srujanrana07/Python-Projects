@@ -8,26 +8,22 @@ Welcome to my collection of random Python projects! This repository contains sev
 
 - [Project 1: BMI Calculator](#project-1-project-name)
 - [Project 2: Realtime Voice Chatbot](#project-2-project-name)
-- [Project 3:Emoji Pong Game](#project-3-project-name)
+- [Project 3: Emoji Pong Game](#project-3-project-name)
 - [Project 4: Random Password Generator](#project-4-project-name)
 - [Project 5: Todo List](#project-5-project-name)
 - [Project 6: Socket Chatbot](#project-5-project-name)
 - [Project 7: Wether App](#project-5-project-name)
 ---
 
-## Project 1: Project Name
+## Project 1: BMI Calculator
 
 ### Description:
-A brief description of what this project does, including any relevant technologies or libraries used. 
-
-### How to Run:
-Instructions on how to run the project locally or any setup steps required.
+A simple Python application that calculates the Body Mass Index (BMI) based on a user's height and weight. It provides an easy way to determine if someone is underweight, normal weight, overweight, or obese.
 
 ### Files:
-- `main.py`: The main Python script for the project.
-- `requirements.txt`: Any required Python libraries.
+- `calculator.py`: The main Python script for the project.
 
-[Navigate to the project folder](./project1)
+[Navigate to the project folder](./BMI Calculator)
 
 ---
 
