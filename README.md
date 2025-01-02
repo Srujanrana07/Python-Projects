@@ -23,7 +23,7 @@ A simple Python application that calculates the Body Mass Index (BMI) based on a
 ### Files:
 - `calculator.py`: The main Python script for the project.
 
-[Navigate to the project folder](./BMI Calculator)
+[Navigate to the project folder](./project1)
 
 ---
 
